@@ -1,0 +1,10 @@
+{
+  "name": "moneylog",
+  "start_url": "https://moneylog.app",
+  "description": "The financial tracking app",
+  "icons": [{
+    "src": "https://moneylog.app/logo-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
